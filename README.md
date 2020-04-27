@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) to build an application that gives the local weather or its user...
+This Project uses [Create React App](https://github.com/facebook/create-react-app) to build an application that gives weather information
 
 ## Tools
 - [weathericons.io](http://weathericons.io) <br>
