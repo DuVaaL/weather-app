@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [API OpenWeatherMap](https://openweathermap.org/api) This set includes companion CSS files for popular weather service API. Presently there are mappings for Forecast.io, Open Weather Map, World Meteorological Organization, Weather Underground, and Yahoo. 
 
 ## Demo
-[](demoo.gif)
+![](demoo.gif)
 
 
 
